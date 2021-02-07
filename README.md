@@ -10,9 +10,11 @@
 # Simple Crud Restful Api with Laravel 8
 ## HOW TO RUNNING PROJECT 
 
+```
 1. composer install
 2. cp .env.example .env
 3. php artisan key:generate
 4. Setting database on .env
 5. php artisan migrate
 6. php artisan serve
+```
